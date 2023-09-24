@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Maria1899/Maria1899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +5,7 @@
 Here are some ideas to get you started: -->
 
 
-# Hola 👋, Bienvenido a mi portafolio
+# Hola 👋, Bienvenido 
 Soy Rosa Maria, una analista de datos y me apasiona la resolución de problemas a través del análisis de datos.
 
 
