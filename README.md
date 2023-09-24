@@ -9,7 +9,6 @@ Here are some ideas to get you started: -->
 # Hola 👋, Bienvenido a mi portafolio
 Soy Rosa Maria, una analista de datos y me apasiona la resolución de problemas a través del análisis de datos.
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rosa-maria-poma-vilca/)
 
 
 
