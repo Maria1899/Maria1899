@@ -3,14 +3,28 @@
 <!--
 **Maria1899/Maria1899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Hola 👋, Bienvenido a mi portafolio
+Soy Rosa Maria, una analista de datos y me apasiona la resolución de problemas a través del análisis de datos.
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rosa-maria-poma-vilca/)
+
+
+
+## 🚀 About Me
+📝 Tengo experiencia en herramientas como Power BI (Business Intelligence),Tableau y lenguajes como Python y SQL, los cuales utilizo para llevar acabo análisis de datos efectivos.
+
+😄 Me gusta abordar nuevos desafíos y buscar soluciones innovadoras. 
+
+🧠 Estoy en un proceso de formación continua para estar al tanto de las últimas tendencias y mejores prácticas en el campo del análisis de datos.
+
+
+
+
+
+## 🛠 Skills
+Sql, Power Bi, Tableau, Python, ETL, Javascript, Html, Css, Figma
+
+
